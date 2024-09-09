@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Pandit</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React Native, Backend Development**
 
