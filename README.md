@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React Native, Backend Development**
+- 🌱 I’m currently learning **React Native, Backend Development (Nodejs)**
 
 - 👨‍💻 All of my projects are available at [[vivekkr277.github.io](https://github.com/Vivekkr277?tab=repositories)]
 
-- 💬 Ask me about **react, react native**
+- 💬 Ask me about **react, react native, nodejs**
 
 - 📫 How to reach me **vkr70611@gmail.com**
 
